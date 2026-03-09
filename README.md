@@ -1,5 +1,5 @@
 # Technical Research & Systems Analysis
- A collection of academic research and performance modeling papers, each awarded a 95% Distinction grade by assessing academic institutions.
+A collection of academic research and performance modeling papers, each awarded a 95% Distinction grade by assessing academic institutions.
  
 # ARM Architecture: Performance Modeling & Security Planning
 ## Executive Summary
@@ -8,7 +8,7 @@ This repository contains a deep-dive technical planning document centered on the
 ### Assessment Grade: 95%
 
 📄 Document Access
-The full 21-page project planning paper is available in PDF format. It is attached above Cyber_Planning_Research.pdf.
+The full 21-page project planning paper is available in PDF format. It is attached above Cyber_Planning_.pdf.
 
 Key Areas Covered:
 Hardware Analysis: SoC architecture (BCM2711), Quad-core thread management, and Privilege Exception Levels (EL0-EL3).
