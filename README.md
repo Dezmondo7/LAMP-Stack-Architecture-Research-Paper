@@ -8,7 +8,7 @@ This repository contains a deep-dive technical planning document centered on the
 ### Assessment Grade: 95%
 
 📄 Document Access
-The full 21-page project planning paper is available in PDF format. It is attached above Cyber_Planning_.pdf.
+The full 21-page project planning paper is available in PDF format. It is attached above Cyber_Planning.pdf.
 
 Key Areas Covered:
 Hardware Analysis: SoC architecture (BCM2711), Quad-core thread management, and Privilege Exception Levels (EL0-EL3).
